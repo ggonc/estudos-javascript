@@ -7,7 +7,9 @@ Utilização de operadores, estruturas de dados, funções, coleções (objetos 
 * Alunos Aprovados
 * Calculadora
 * Contador
+* Maps
 * Operadores
+* Sets
 * Substituir Pares
 * This
 * To-do List
